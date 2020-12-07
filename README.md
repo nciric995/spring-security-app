@@ -5,4 +5,4 @@
 -User roles\
 -Restrict access based on role\
 -JDBC database authentication\
--Password encryption with bcrypt\
+-Password encryption with bcrypt

@@ -1,4 +1,4 @@
-# Spring Security application\
+# Spring Security application
 
 -Login\
 -Logout\
